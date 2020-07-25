@@ -1,17 +1,17 @@
 [
   {
-    "id_product": 1,
-    "product_name": "Ковёр-самолёт",
+    "id": 1,
+    "title": "Ковёр-самолёт",
     "price": 700
   },
   {
-    "id_product": 2,
-    "product_name": "Нимбус 2000",
+    "id": 2,
+    "title": "Нимбус 2000",
     "price": 2400
   },
   {
-  	"id_product": 3,
-  	"product_name": "Шапка-невидимка",
+  	"id": 3,
+  	"title": "Шапка-невидимка",
   	"price": 230
   }
 ]
