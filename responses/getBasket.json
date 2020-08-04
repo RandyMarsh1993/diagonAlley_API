@@ -1,18 +1,24 @@
 {
-  "amount": 46600,
-  "countGoods": 2,
+  "amount": 3330,
+  "countGoods": 3,
   "contents": [
     {
-      "id_product": 123,
-      "product_name": "Ноутбук",
-      "price": 45600,
-      "quantity": 1
+      "id": 1,
+      "title": "Ковёр-самолёт",
+      "price": 700,
+      "count": 0
     },
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
-      "quantity": 1
+      "id": 2,
+      "title": "Нимбус 2000",
+      "price": 2400,
+      "count": 0
+    }
+    {
+      "id": 3,
+      "title": "Шапка-невидимка",
+      "price": 230,
+      "count": 0
     }
   ]
 }
